@@ -1,0 +1,119 @@
+/*
+Full Name  :Jennifer Wang
+Student ID#: 169554219
+Email      : xwang488@myseneca.ca
+Section    : NII
+Date       :2022/8/15
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100&family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #1f4568;
+    height:100%; 
+}
+body {
+    background-image: url("https://images.unsplash.com/photo-1554644876-1797f78804e5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:100%;
+}
+.header {
+    padding: 30px 25px;   
+    background: linear-gradient(90deg,  #f7f3ce 10%, #c5ecbe 40%, #4797b1 60%);
+}
+.head_fi{
+    color: coral;
+}
+.header_la{
+    color: rgb(251, 85, 251);
+
+}
+
+.header__elenco {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.header__nav {
+    float: right;
+}
+
+.header__el {
+    padding: 0 25px;
+    display: inline-block;
+}
+
+.header__title {
+    margin: 0;
+    margin-left: 10px;
+    display: inline-block;
+    line-height: 18px;
+    vertical-align:auto;
+    font-family: 'Mukta';
+    font-size: 30px;
+}
+
+.header__light {
+    color: #39080e;
+}
+
+.header__link {
+    color:aliceblue;
+    font-size: 18px;
+    font-family: 'Roboto', serif;
+}
+
+.header__link:hover {
+    color:rgb(51, 92, 238);
+    text-decoration: none;
+}
+
+
+.center-box{
+    text-align: center;
+    padding: 50px 0;
+}
+.center-box button{
+    background-color:rgb(250, 208, 208);
+    border-radius: 4px;
+    border:1px solid rgb(63, 91, 219);
+    color: black;
+}
+.bainchen-sp{
+    display:block; margin: 0 auto;
+}
+.about_me{
+    background-color: #f7f3ce;
+    margin: 0px 20em;
+
+}
+.basic{
+    background-color:#ffdede;
+    margin: 0px 20em;
+}
+.education{
+   background-color: #c5ecbe;
+   margin: 0px 20em;
+}
+.reflection{
+    background-color:#4797b1 ;
+    margin: 0px 20em;
+}
+.reflection p{
+    font-size: 20px;
+    font-family: 'Dongle' sans-serif;
+}

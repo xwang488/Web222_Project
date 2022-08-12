@@ -1,0 +1,86 @@
+/*
+Full Name  :Jennifer Wang
+Student ID#: 169554219
+Email      : xwang488@myseneca.ca
+Section    : NII
+Date       :2022/8/15
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100&family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@1&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #1f4568;
+    height:100%;
+}
+
+body {
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:100%;
+}
+.headercn {
+    padding: 30px 25px;   
+    background: linear-gradient(90deg,  #f7f3ce 10%, #c5ecbe 40%, #4797b1 60%);
+}
+.headercn__elenco {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.headercn__nav {
+    float: right;
+}
+
+.headercn__el {
+    padding: 0 25px;
+    display: inline-block;
+}
+
+
+.headercn__title {
+    margin: 0;
+    margin-left: 10px;
+    display: inline-block;
+    line-height: 18px;
+    vertical-align:auto;
+    font-family: 'Mukta';
+    font-size: 30px;
+}
+
+.headercn__light {
+    color: #39080e;
+}
+
+.headercn__link {
+    color:aliceblue;
+    font-size: 18px;
+    font-family: 'Roboto', serif;
+}
+
+.headercn__link:hover {
+    color:rgb(51, 92, 238);
+    text-decoration: none;
+}
+
+.navbar-toggle .icon-bar {
+    background-color: #8198ae;
+}
+
+.center-box{
+    text-align: center;
+    padding: 50px 0;
+}

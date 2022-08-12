@@ -1,0 +1,72 @@
+/*
+Full Name  :Jennifer Wang
+Student ID#: 169554219
+Email      : xwang488@myseneca.ca
+Section    : NII
+Date       :2022/8/15
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@100&family=Edu+NSW+ACT+Foundation&family=Edu+VIC+WA+NT+Beginner:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Antique&display=swap');
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #1f4568;
+    height:100%;
+}
+
+body {
+    background: linear-gradient(90deg,  #f7f3ce 10%, #c5ecbe 40%, #4797b1 60%);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:100%;
+}
+.main{
+    padding-bottom:100px;
+}
+.center-box{
+    text-align: center;
+    padding: 50px 0;
+}
+.center-box button{
+    background-color:rgb(250, 208, 208);
+    border-radius: 4px;
+    border:1px solid rgb(63, 91, 219);
+    color: black;
+}
+.bainchen-sp{
+    display:block; margin: 0 auto;
+}
+
+
+.header {
+    padding: 30px 25px;   
+    background: linear-gradient(90deg,  #f7f3ce 10%, #c5ecbe 40%, #4797b1 60%);
+}
+
+.header__link {
+    color:rgb(17, 17, 18);
+    font-size: 18px;
+    font-family: 'Roboto', serif;
+}
+
+.header__link:hover {
+    color:rgb(51, 0, 255);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
